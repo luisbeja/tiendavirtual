@@ -48,7 +48,7 @@ include('includes/config.php');
 	<div class="container">
 		<div class="breadcrumb-inner">
 			<ul class="list-inline list-unstyled">
-				<li><a href="home.html">Inicio</a></li>
+				<li><a href="index.php">Inicio</a></li>
 				<li class='active'>Seguimiento de orden</li>
 			</ul>
 		</div><!-- /.breadcrumb-inner -->
