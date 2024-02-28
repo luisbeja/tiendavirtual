@@ -324,7 +324,7 @@ while ($row=mysqli_fetch_array($ret))
 				<div class="row">
 					<div class="col-md-6">
 	                   <section class="section">
-	                   	<h3 class="section-title">Smart Phones</h3>
+	                   	<h3 class="section-title">Amor y Amistad</h3>
 	                   	<div class="owl-carousel homepage-owl-carousel custom-carousel outer-top-xs owl-theme" data-item="2">
 	   
 <?php
@@ -371,7 +371,7 @@ while ($row=mysqli_fetch_array($ret))
 					</div>
 					<div class="col-md-6">
 						<section class="section">
-							<h3 class="section-title">Laptops</h3>
+							<h3 class="section-title">Infantil</h3>
 		                   	<div class="owl-carousel homepage-owl-carousel custom-carousel outer-top-xs owl-theme" data-item="2">
 	<?php
 $ret=mysqli_query($con,"select * from products where category=4 and subCategory=6");
@@ -424,7 +424,7 @@ while ($row=mysqli_fetch_array($ret))
 		
 
 	<section class="section featured-product inner-xs wow fadeInUp">
-		<h3 class="section-title">Moda</h3>
+		<h3 class="section-title">Aniversarios</h3>
 		<div class="owl-carousel best-seller custom-carousel owl-theme outer-top-xs">
 			<?php
 $ret=mysqli_query($con,"select * from products where category=6");
