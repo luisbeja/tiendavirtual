@@ -59,7 +59,6 @@ header('location:my-wishlist.php');
 		<link rel="stylesheet" href="assets/css/config.css">
 
 	
-		<link href="assets/css/red.css" rel="alternate stylesheet" title="Red color">
 	
 		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
@@ -130,7 +129,7 @@ while($row=mysql_fetch_array($sql))
 	<div id="category" class="category-carousel hidden-xs">
 		<div class="item">	
 			<div class="image">
-				<img src="assets/images/banners/cat-banner-2.jpg" alt="" class="img-responsive">
+				<img src="assets/images/banners/cat-banner-2.png" alt="" class="img-responsive">
 			</div>
 			<div class="container-fluid">
 				<div class="caption vertical-top text-left">

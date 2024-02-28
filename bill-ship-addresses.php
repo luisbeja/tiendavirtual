@@ -70,8 +70,6 @@ echo "<script>alert('Shipping Address has been updated');</script>";
 		<link rel="stylesheet" href="assets/css/config.css">
 
 
-		<link href="assets/css/red.css" rel="alternate stylesheet" title="Red color">
-
 		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 		<link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css'>
 		<link rel="shortcut icon" href="assets/images/favicon.ico">

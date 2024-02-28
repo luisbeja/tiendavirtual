@@ -42,7 +42,6 @@ else{
 		<!-- Demo Purpose Only. Should be removed in production -->
 		<link rel="stylesheet" href="assets/css/config.css">
 
-		<link href="assets/css/red.css" rel="alternate stylesheet" title="Red color">
 
 		<!-- Demo Purpose Only. Should be removed in production : END -->
 

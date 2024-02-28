@@ -20,7 +20,7 @@
 <div class="logo">
 	<a href="index.php">
 		
-		<h2><img src="assets/images/logo1.png" width="250px" height="60px" padding:"0px" alt="">	</h2>
+		<h2><img src="assets/images/logo2.png" width="250px" height="60px" padding:"0px" alt="">	</h2>
 
 	</a>
 </div>		

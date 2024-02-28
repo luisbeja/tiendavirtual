@@ -67,7 +67,6 @@ if(isset($_POST['submit']))
 		<link rel="stylesheet" href="assets/css/config.css">
 
 
-		<link href="assets/css/red.css" rel="alternate stylesheet" title="Red color">
 
 		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
